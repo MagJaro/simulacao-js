@@ -11,12 +11,12 @@ dps faça o merge deles numa pasta unica e da um pull request
 5) crie uma função que recebe o peso e a altura de alguem, calcule seu imc e retorne o imc e a mensagem sobre o peso da pessoa. segue os dados abaixo para cada caso
 
 IMC	Resultado
-Menos do que 18,5	Abaixo do peso
-Entre 18,5 e 24,9	Peso normal
-Entre 25 e 29,9	Sobrepeso
-Entre 30 e 34,9	Obesidade grau 1
-Entre 35 e 39,9	Obesidade grau 2
-Mais do que 40	Obesidade grau 3
+Menos do que 18,5	Abaixo do peso\n
+Entre 18,5 e 24,9	Peso normal\n
+Entre 25 e 29,9	Sobrepeso\n
+Entre 30 e 34,9	Obesidade grau 1\n
+Entre 35 e 39,9	Obesidade grau 2\n
+Mais do que 40	Obesidade grau 3\n
 
 retorne uma mensagem legal para que a experiencia do usuario seja a melhor possivel.
 
