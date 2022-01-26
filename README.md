@@ -24,5 +24,5 @@ Boa sorte!! treina bastante e aproveita bem
 
 marca essa caixinha quando terminar
 
-[] mag
-[] eduardo
+[  ] mag <br />
+[  ] eduardo
